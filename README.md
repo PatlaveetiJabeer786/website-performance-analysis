@@ -116,12 +116,8 @@ jupyter notebook website_performance_analysis.ipynb
 
 
 ---
-<div align="center">
+
 
 ⭐ If this project inspired you, give it a Star! ⭐
 
-</div>
 
-Footer (github.com in Bing)
-
-✅ This is the **final README in one single block** — copy once, paste once, and your Website Performance Analysis project is ready in GitHub.
